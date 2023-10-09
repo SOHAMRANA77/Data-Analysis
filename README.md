@@ -32,7 +32,7 @@ To run the analysis, you'll need Python and some Python packages. You can instal
 3. Open and run the provided Jupyter Notebook or Python scripts to perform the data analysis.
 
 ## Data
-The dataset used in this project contains weather information, including date/time, temperature, weather condition, wind speed, visibility, and more. The data is sourced from [source name/link].
+The dataset used in this project contains weather information, including date/time, temperature, weather condition, wind speed, visibility, and more. The data is sourced from [kaggle](www.kaggle.com).
 
 ## Analysis
 The analysis includes:
