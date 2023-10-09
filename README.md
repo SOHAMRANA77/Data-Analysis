@@ -1,5 +1,5 @@
-<img align="right" alt="coding" width="400" src="https://github.com/SOHAMRANA77/Data-Analysis/blob/d8d28ae63655c1b6d52d22f203c1f7a614094e92/Data/image/Data-Analytics.png">
 # Data Analysis Project
+<img align="right" alt="coding" width="400" src="https://github.com/SOHAMRANA77/Data-Analysis/blob/d8d28ae63655c1b6d52d22f203c1f7a614094e92/Data/image/Data-Analytics.png">
 
 ## Overview
 This project involves data analysis using Python and Pandas library. The analysis focuses on weather data, exploring various weather conditions and deriving insights from the dataset.
