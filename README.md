@@ -19,7 +19,7 @@ This project involves data analysis using Python and Pandas library. The analysi
 To run the analysis, you'll need Python and some Python packages. You can install the necessary packages using pip:
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your_username/data-analysis-project.git
+   git clone https://github.com/SOHAMRANA77/Data-Analysis.git
    cd data-analysis-project
 
 - Python
